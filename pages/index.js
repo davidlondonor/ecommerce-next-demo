@@ -1,4 +1,4 @@
-import BasicLayout from "../../client/layouts/BasicLayout/";
+import BasicLayout from "../client/layouts/BasicLayout/BasicLayout";
 
 export default function Home() {
   return (
